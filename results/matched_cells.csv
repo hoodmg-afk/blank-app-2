@@ -1,0 +1,281 @@
+brand,category,median_men,median_women,size_men,size_women,gap_pct,direction
+(di)vision,jackets,227.5,350.0,4.0,3.0,53.846153846153854,women_more
+A.P.C.,bags,325.0,545.0,23.0,59.0,67.6923076923077,women_more
+A.P.C.,hats,130.0,152.5,5.0,6.0,17.307692307692314,women_more
+A.P.C.,sneakers,365.0,365.0,3.0,3.0,0.0,same
+A.P.C.,sweaters,365.0,313.0,13.0,5.0,-14.24657534246575,men_more
+A.P.C.,t-shirts,142.5,106.0,38.0,5.0,-25.6140350877193,men_more
+AMI Paris,bags,265.0,271.0,8.0,3.0,2.264150943396226,women_more
+AMI Paris,hats,113.0,129.0,17.0,6.0,14.15929203539823,women_more
+AMI Paris,jackets,726.0,707.0,22.0,6.0,-2.617079889807161,men_more
+AMI Paris,shirts,275.5,369.0,26.0,3.0,33.9382940108893,women_more
+AMI Paris,sweaters,372.0,332.5,34.0,8.0,-10.618279569892476,men_more
+AMI Paris,t-shirts,123.0,228.0,9.0,8.0,85.3658536585366,women_more
+AMI Paris,trousers,286.0,488.0,26.0,4.0,70.62937062937063,women_more
+AMIRI,jeans,850.0,790.0,11.0,4.0,-7.058823529411762,men_more
+AMOMENTO,coats,430.0,540.0,6.0,4.0,25.581395348837212,women_more
+AMOMENTO,jackets,273.0,296.5,11.0,6.0,8.608058608058599,women_more
+AMOMENTO,sweaters,178.0,182.0,8.0,6.0,2.2471910112359605,women_more
+AMOMENTO,trousers,137.0,140.0,10.0,5.0,2.1897810218978186,women_more
+AURALEE,sweaters,348.0,545.0,17.0,4.0,56.60919540229885,women_more
+Acne Studios,bags,385.0,540.0,8.0,5.0,40.25974025974026,women_more
+Acne Studios,jackets,950.0,2600.0,15.0,7.0,173.6842105263158,women_more
+Acne Studios,sweaters,580.0,800.0,3.0,3.0,37.93103448275863,women_more
+Alighieri,jewelry,295.0,385.0,18.0,20.0,30.508474576271194,women_more
+Awake NY,t-shirts,50.0,55.0,9.0,6.0,10.000000000000009,women_more
+Axel Arigato,bags,143.0,120.5,7.0,4.0,-15.73426573426573,men_more
+Axel Arigato,hats,100.0,68.0,3.0,3.0,-31.999999999999996,men_more
+Axel Arigato,jackets,387.0,347.0,10.0,3.0,-10.335917312661502,men_more
+Axel Arigato,jeans,280.0,280.0,3.0,3.0,0.0,same
+Axel Arigato,sneakers,189.0,232.0,13.0,8.0,22.751322751322746,women_more
+BAO BAO ISSEY MIYAKE,bags,745.0,780.0,47.0,17.0,4.697986577181212,women_more
+BAPE,hats,135.0,135.0,6.0,4.0,0.0,same
+BAPE,t-shirts,100.0,100.0,48.0,13.0,0.0,same
+Balenciaga,bags,1375.0,2550.0,4.0,15.0,85.45454545454545,women_more
+Balenciaga,sneakers,1325.0,1125.0,11.0,6.0,-15.094339622641506,men_more
+Balmain,jackets,1915.5,2157.0,6.0,7.0,12.607674236491784,women_more
+Birkenstock,loafers,155.0,170.0,7.0,7.0,9.677419354838701,women_more
+Black Comme des Garçons,jackets,1235.0,1080.0,11.0,5.0,-12.550607287449388,men_more
+Bode,jackets,1680.0,1680.0,8.0,3.0,0.0,same
+Bode,shirts,650.0,650.0,33.0,18.0,0.0,same
+Bode,sweaters,690.0,850.0,5.0,9.0,23.188405797101442,women_more
+Bode,trousers,1155.0,780.0,12.0,8.0,-32.467532467532465,men_more
+Bottega Veneta,bags,2450.0,3100.0,26.0,47.0,26.530612244897966,women_more
+Bottega Veneta,belts,720.0,800.0,3.0,4.0,11.111111111111116,women_more
+Bottega Veneta,boots,1275.0,990.0,10.0,9.0,-22.352941176470587,men_more
+Bottega Veneta,jackets,3100.0,2300.0,8.0,4.0,-25.806451612903224,men_more
+Bottega Veneta,jewelry,625.0,940.0,6.0,16.0,50.4,women_more
+Bottega Veneta,shirts,1500.0,1750.0,7.0,4.0,16.666666666666675,women_more
+Burberry,bags,700.0,1170.0,12.0,10.0,67.14285714285715,women_more
+Burberry,boots,1420.0,870.0,8.0,8.0,-38.732394366197184,men_more
+Burberry,jackets,2890.0,2020.0,11.0,6.0,-30.1038062283737,men_more
+Burberry,scarves,550.0,625.0,9.0,16.0,13.636363636363647,women_more
+Burberry,t-shirts,820.0,960.0,6.0,3.0,17.07317073170731,women_more
+Canada Goose,jackets,950.0,1545.0,41.0,10.0,62.63157894736842,women_more
+Carhartt Work In Progress,bags,90.0,68.5,5.0,12.0,-23.888888888888893,men_more
+Carhartt Work In Progress,hats,50.0,60.0,7.0,3.0,19.999999999999996,women_more
+Carhartt Work In Progress,jackets,235.0,200.0,10.0,27.0,-14.893617021276595,men_more
+Carhartt Work In Progress,jeans,125.0,101.0,11.0,3.0,-19.199999999999996,men_more
+Carhartt Work In Progress,t-shirts,55.0,53.0,9.0,3.0,-3.6363636363636376,men_more
+Carhartt Work In Progress,trousers,125.0,120.0,7.0,3.0,-4.0000000000000036,men_more
+Cartier,sunglasses,1145.0,1130.0,27.0,5.0,-1.3100436681222738,men_more
+Casablanca,jewelry,149.0,192.0,9.0,3.0,28.859060402684555,women_more
+Chopova Lowena,jewelry,240.0,265.0,18.0,31.0,10.416666666666675,women_more
+Collina Strada,jewelry,100.0,115.0,5.0,13.0,14.999999999999991,women_more
+Comme des Garçons Shirt,shirts,419.0,490.0,23.0,9.0,16.945107398568027,women_more
+Comme des Garçons Shirt,sweaters,283.5,325.0,6.0,4.0,14.63844797178131,women_more
+Converse,sneakers,90.0,90.0,21.0,39.0,0.0,same
+Courrèges,jackets,845.0,898.0,7.0,5.0,6.2721893491124225,women_more
+Diesel,bags,207.0,522.5,3.0,4.0,152.41545893719808,women_more
+Diesel,sunglasses,206.5,176.0,4.0,5.0,-14.769975786924938,men_more
+Dime,hats,45.0,40.0,20.0,6.0,-11.111111111111116,men_more
+Dime,jackets,133.0,152.5,7.0,4.0,14.661654135338352,women_more
+Dime,jeans,132.5,130.0,14.0,6.0,-1.8867924528301883,men_more
+Dime,sneakers,145.0,160.0,3.0,3.0,10.344827586206895,women_more
+Dime,sweatshirts,120.0,110.0,20.0,8.0,-8.333333333333337,men_more
+Dime,t-shirts,50.0,45.0,42.0,12.0,-9.999999999999998,men_more
+Dolce & Gabbana,bags,342.0,1195.0,3.0,3.0,249.41520467836256,women_more
+Dolce & Gabbana,jewelry,250.5,465.0,6.0,8.0,85.62874251497006,women_more
+Dries Van Noten,boots,1055.0,1140.0,9.0,4.0,8.056872037914697,women_more
+Dries Van Noten,jackets,1900.0,2375.0,3.0,4.0,25.0,women_more
+Dries Van Noten,sunglasses,345.0,345.0,4.0,3.0,0.0,same
+EYTYS,jeans,222.0,270.0,16.0,7.0,21.62162162162162,women_more
+EYTYS,trousers,261.0,261.0,5.0,3.0,0.0,same
+Entire Studios,sweatshirts,147.5,147.5,4.0,8.0,0.0,same
+Entire Studios,t-shirts,120.0,120.0,5.0,4.0,0.0,same
+Entire Studios,trousers,160.0,100.0,12.0,8.0,-37.5,men_more
+Fear of God ESSENTIALS,shorts,75.0,75.0,3.0,5.0,0.0,same
+Fear of God ESSENTIALS,sweatshirts,130.0,100.0,6.0,4.0,-23.076923076923073,men_more
+Fear of God ESSENTIALS,t-shirts,60.0,60.0,9.0,8.0,0.0,same
+Fear of God ESSENTIALS,trousers,95.0,95.0,4.0,4.0,0.0,same
+GANNI,coats,340.0,625.0,4.0,3.0,83.8235294117647,women_more
+GANNI,jackets,250.0,357.5,6.0,8.0,42.99999999999999,women_more
+GANNI,sweaters,290.0,95.0,5.0,10.0,-67.24137931034483,men_more
+GANNI,t-shirts,95.0,145.0,5.0,9.0,52.63157894736843,women_more
+Givenchy,bags,830.0,1500.0,9.0,17.0,80.72289156626506,women_more
+Givenchy,jackets,2680.0,4375.0,5.0,4.0,63.24626865671641,women_more
+Givenchy,jewelry,410.0,350.0,11.0,9.0,-14.634146341463417,men_more
+Givenchy,sneakers,730.0,725.0,14.0,6.0,-0.6849315068493178,same
+Givenchy,sunglasses,450.0,260.0,11.0,16.0,-42.22222222222223,men_more
+Givenchy,sweatshirts,1052.5,920.0,4.0,3.0,-12.589073634204272,men_more
+Givenchy,t-shirts,637.5,520.0,16.0,7.0,-18.43137254901961,men_more
+Gramicci,trousers,73.0,101.0,7.0,3.0,38.35616438356164,women_more
+Gucci,bags,1680.0,1850.0,35.0,31.0,10.119047619047628,women_more
+Gucci,belts,505.0,360.0,14.0,3.0,-28.712871287128717,men_more
+Gucci,boots,1150.0,1520.0,3.0,4.0,32.17391304347825,women_more
+Gucci,hats,470.0,395.0,4.0,3.0,-15.957446808510634,men_more
+Gucci,jackets,2850.0,3500.0,22.0,7.0,22.807017543859654,women_more
+Gucci,jewelry,580.0,360.0,11.0,7.0,-37.93103448275862,men_more
+Gucci,loafers,1035.0,1150.0,6.0,7.0,11.111111111111116,women_more
+Gucci,shirts,1315.0,1175.0,12.0,8.0,-10.646387832699622,men_more
+Gucci,sneakers,950.0,980.0,16.0,5.0,3.157894736842115,women_more
+Gucci,sunglasses,450.0,465.0,125.0,43.0,3.3333333333333437,women_more
+Gucci,sweaters,1475.0,1800.0,14.0,4.0,22.033898305084755,women_more
+Gucci,t-shirts,590.0,590.0,9.0,4.0,0.0,same
+Gucci,trousers,1700.0,1800.0,17.0,5.0,5.882352941176472,women_more
+Guest in Residence,sweaters,545.0,545.0,15.0,12.0,0.0,same
+Guidi,boots,1285.0,1560.0,3.0,4.0,21.400778210116723,women_more
+HELIOT EMIL,jackets,705.0,689.0,4.0,3.0,-2.269503546099294,men_more
+Helmut Lang,jackets,495.0,585.0,5.0,6.0,18.181818181818187,women_more
+Helmut Lang,shirts,370.0,375.0,6.0,3.0,1.3513513513513598,women_more
+Helmut Lang,t-shirts,175.0,225.0,7.0,7.0,28.57142857142858,women_more
+Helmut Lang,trousers,425.0,410.0,8.0,4.0,-3.529411764705881,men_more
+Isa Boulder,jackets,281.0,321.0,5.0,4.0,14.234875444839856,women_more
+Isa Boulder,sweaters,254.0,282.0,11.0,3.0,11.023622047244096,women_more
+Isa Boulder,trousers,237.0,246.0,16.0,5.0,3.797468354430378,women_more
+Isabel Marant,boots,729.5,1673.0,4.0,3.0,129.33516106922548,women_more
+Isabel Marant,jackets,695.0,730.0,15.0,5.0,5.035971223021574,women_more
+Isabel Marant,jeans,435.0,590.0,10.0,3.0,35.63218390804597,women_more
+Isabel Marant,jewelry,170.0,170.0,7.0,11.0,0.0,same
+Isabel Marant,shirts,445.0,770.0,16.0,3.0,73.03370786516854,women_more
+Isabel Marant,sneakers,610.0,590.0,3.0,7.0,-3.2786885245901676,men_more
+Isabel Marant,t-shirts,220.0,360.0,11.0,3.0,63.63636363636365,women_more
+Jacquemus,bags,487.0,837.5,6.0,12.0,71.97125256673512,women_more
+Jacquemus,jeans,417.0,393.0,4.0,4.0,-5.755395683453235,men_more
+Jacquemus,t-shirts,252.5,220.0,4.0,3.0,-12.871287128712872,men_more
+Jean Paul Gaultier,t-shirts,305.0,315.0,8.0,4.0,3.2786885245901676,women_more
+Jil Sander,coats,2820.0,2770.0,3.0,3.0,-1.773049645390068,men_more
+Jil Sander,jackets,2050.0,2390.0,13.0,9.0,16.58536585365853,women_more
+Jil Sander,loafers,1220.0,1220.0,3.0,3.0,0.0,same
+Jil Sander,shirts,1150.0,1000.0,5.0,3.0,-13.043478260869568,men_more
+Jil Sander,sweaters,1185.0,1475.0,16.0,6.0,24.472573839662438,women_more
+Jil Sander,trousers,1410.0,1000.0,8.0,8.0,-29.078014184397162,men_more
+Junya Watanabe,coats,1652.0,1927.5,4.0,4.0,16.676755447941893,women_more
+Junya Watanabe,jackets,1310.0,1930.0,13.0,7.0,47.32824427480915,women_more
+Justine Clenquet,sunglasses,290.0,285.0,6.0,6.0,-1.7241379310344862,men_more
+Ksubi,jeans,260.0,210.0,4.0,10.0,-19.23076923076923,men_more
+LEMAIRE,coats,1067.0,2127.5,6.0,8.0,99.3908153701968,women_more
+LEMAIRE,jackets,995.0,900.0,10.0,9.0,-9.547738693467334,men_more
+LEMAIRE,shirts,622.0,714.5,8.0,6.0,14.87138263665595,women_more
+LEMAIRE,trousers,780.0,494.5,5.0,4.0,-36.6025641025641,men_more
+LOEWE,sunglasses,380.0,360.0,6.0,17.0,-5.263157894736848,men_more
+Lanvin,sneakers,660.0,685.0,21.0,6.0,3.7878787878787845,women_more
+Luar,bags,169.5,178.0,6.0,5.0,5.014749262536866,women_more
+MACKAGE,coats,1460.0,1250.0,6.0,5.0,-14.383561643835618,men_more
+MACKAGE,jackets,1180.0,1090.0,20.0,21.0,-7.6271186440677985,men_more
+MM6 Maison Margiela,bags,297.5,263.5,4.0,8.0,-11.428571428571432,men_more
+MM6 Maison Margiela,boots,565.5,777.5,4.0,6.0,37.48894783377541,women_more
+MM6 Maison Margiela,coats,1763.0,1880.0,5.0,4.0,6.636415201361312,women_more
+MM6 Maison Margiela,jackets,1370.0,1100.0,5.0,15.0,-19.70802919708029,men_more
+MM6 Maison Margiela,jeans,485.0,354.0,3.0,9.0,-27.01030927835052,men_more
+MM6 Maison Margiela,jewelry,171.0,235.0,5.0,7.0,37.42690058479532,women_more
+MM6 Maison Margiela,shirts,593.0,655.0,3.0,3.0,10.455311973018544,women_more
+MM6 Maison Margiela,sneakers,335.0,325.0,8.0,7.0,-2.985074626865669,men_more
+MM6 Maison Margiela,t-shirts,278.0,285.0,6.0,9.0,2.517985611510798,women_more
+MM6 Maison Margiela,trousers,560.0,500.0,5.0,9.0,-10.71428571428571,men_more
+Maison Kitsuné,shirts,244.0,110.0,7.0,4.0,-54.91803278688525,men_more
+Maison Kitsuné,sweaters,210.0,320.0,17.0,3.0,52.38095238095237,women_more
+Maison Kitsuné,t-shirts,95.0,115.0,12.0,6.0,21.052631578947366,women_more
+Maison Margiela,jewelry,337.5,194.5,14.0,12.0,-42.37037037037037,men_more
+Marine Serre,hats,185.0,166.5,3.0,6.0,-9.999999999999998,men_more
+Marine Serre,jeans,742.5,682.0,4.0,4.0,-8.148148148148149,men_more
+Marine Serre,shirts,404.5,436.0,4.0,7.0,7.787391841779967,women_more
+Marine Serre,t-shirts,173.0,131.0,4.0,7.0,-24.277456647398843,men_more
+Marine Serre,trousers,507.0,485.0,3.0,6.0,-4.339250493096647,men_more
+Marni,bags,572.5,895.0,6.0,36.0,56.33187772925765,women_more
+Marni,boots,714.0,813.0,3.0,5.0,13.86554621848739,women_more
+Marni,hats,200.5,395.0,4.0,5.0,97.00748129675812,women_more
+Marni,loafers,704.0,714.0,5.0,7.0,1.4204545454545414,women_more
+Marni,scarves,277.0,292.0,9.0,3.0,5.4151624548736566,women_more
+Marni,shirts,675.0,607.5,18.0,4.0,-9.999999999999998,men_more
+Marni,sunglasses,322.5,325.0,20.0,13.0,0.7751937984496138,same
+Marni,sweaters,770.0,795.0,9.0,14.0,3.2467532467532534,women_more
+Marni,t-shirts,380.0,332.5,5.0,4.0,-12.5,men_more
+Marni,trousers,673.0,714.0,3.0,3.0,6.092124814264488,women_more
+Max Mara,coats,4187.5,4190.0,6.0,24.0,0.05970149253731183,same
+Moncler,jackets,1750.0,2025.0,31.0,7.0,15.714285714285726,women_more
+Moncler,t-shirts,385.0,355.0,12.0,6.0,-7.792207792207795,men_more
+Moncler,trousers,730.0,695.0,3.0,3.0,-4.794520547945202,men_more
+Moncler Genius,jackets,2050.0,1900.0,17.0,7.0,-7.317073170731703,men_more
+Moncler Grenoble,hats,335.0,300.0,3.0,3.0,-10.447761194029848,men_more
+Moncler Grenoble,jackets,2065.0,2475.0,13.0,6.0,19.85472154963681,women_more
+NEEDLES,sweaters,340.0,340.0,11.0,4.0,0.0,same
+NEEDLES,trousers,305.0,260.0,25.0,7.0,-14.754098360655743,men_more
+Nanushka,jackets,647.0,586.0,3.0,5.0,-9.428129829984544,men_more
+New Balance,sneakers,155.0,112.5,21.0,28.0,-27.419354838709676,men_more
+Nike,jackets,140.0,130.0,10.0,13.0,-7.14285714285714,men_more
+Nike,shorts,60.0,50.0,10.0,3.0,-16.666666666666664,men_more
+Nike,sneakers,155.0,125.0,75.0,63.0,-19.354838709677423,men_more
+Nike,sweatshirts,110.0,98.0,14.0,9.0,-10.909090909090914,men_more
+Nike,t-shirts,65.0,55.0,20.0,11.0,-15.384615384615385,men_more
+Nike,trousers,120.0,61.0,23.0,14.0,-49.16666666666667,men_more
+Nike Jordan,sneakers,146.0,125.0,17.0,10.0,-14.383561643835618,men_more
+Norda,sneakers,295.0,200.0,12.0,4.0,-32.20338983050848,men_more
+On,sneakers,160.0,170.0,14.0,6.0,6.25,women_more
+Our Legacy,jackets,615.0,435.0,11.0,3.0,-29.268292682926834,men_more
+Our Legacy,shirts,360.0,245.0,10.0,3.0,-31.944444444444443,men_more
+Our Legacy,sweaters,455.0,289.0,8.0,3.0,-36.48351648351649,men_more
+POST ARCHIVE FACTION (PAF),jackets,1208.5,397.0,4.0,6.0,-67.14935870914356,men_more
+Pearls Before Swine,jewelry,293.0,291.5,4.0,4.0,-0.5119453924914641,same
+Port Tanger,sunglasses,335.0,310.0,10.0,6.0,-7.462686567164178,men_more
+Praying,hats,41.0,40.0,6.0,4.0,-2.4390243902439046,men_more
+Praying,sweatshirts,112.5,109.0,8.0,11.0,-3.111111111111109,men_more
+Praying,t-shirts,42.0,42.0,5.0,8.0,0.0,same
+ROA,boots,360.0,374.0,11.0,8.0,3.8888888888888973,women_more
+ROA,jackets,417.0,380.0,7.0,7.0,-8.872901678657074,men_more
+ROA,sneakers,273.5,253.0,10.0,8.0,-7.4954296160877565,men_more
+Raf Simons,sneakers,505.0,555.0,7.0,6.0,9.90099009900991,women_more
+Re/Done,jeans,217.0,250.0,9.0,15.0,15.207373271889391,women_more
+Re/Done,t-shirts,107.0,111.0,4.0,23.0,3.738317757009346,women_more
+Rick Owens,boots,4210.0,2690.0,9.0,5.0,-36.104513064133016,men_more
+Rick Owens,dresses,1645.0,1942.5,4.0,6.0,18.085106382978733,women_more
+Rick Owens,jackets,2807.5,2680.0,44.0,20.0,-4.5414069456812145,men_more
+Rick Owens,shorts,635.0,935.0,14.0,9.0,47.24409448818898,women_more
+Rick Owens,skirts,1125.0,1747.5,3.0,4.0,55.33333333333332,women_more
+Rick Owens,sweaters,1450.0,1540.0,14.0,3.0,6.206896551724128,women_more
+Rick Owens,t-shirts,470.0,485.0,18.0,13.0,3.1914893617021267,women_more
+Rick Owens,trousers,1160.0,815.0,14.0,7.0,-29.74137931034483,men_more
+Rick Owens DRKSHDW,hats,325.0,285.0,5.0,3.0,-12.307692307692308,men_more
+Rick Owens DRKSHDW,jackets,2235.0,1795.0,8.0,4.0,-19.686800894854585,men_more
+Rick Owens DRKSHDW,jeans,1010.0,812.5,14.0,6.0,-19.554455445544548,men_more
+Rier,jackets,578.0,531.0,4.0,5.0,-8.131487889273359,men_more
+Saint Laurent,sunglasses,427.5,475.0,68.0,19.0,11.111111111111116,women_more
+Salomon,sneakers,151.5,220.0,50.0,17.0,45.21452145214522,women_more
+Sophie Buhai,jewelry,262.0,450.0,12.0,42.0,71.7557251908397,women_more
+Suicoke,sandals,162.0,270.0,8.0,3.0,66.66666666666667,women_more
+TOM FORD,sunglasses,422.5,455.0,40.0,19.0,7.692307692307687,women_more
+Tekla,sandals,440.0,475.0,4.0,3.0,7.954545454545459,women_more
+Tekla,shirts,220.0,185.0,3.0,13.0,-15.909090909090907,men_more
+Tekla,shorts,150.0,125.0,3.0,13.0,-16.666666666666664,men_more
+Tekla,trousers,185.0,152.5,3.0,10.0,-17.567567567567565,men_more
+Templa,jackets,666.0,1300.0,7.0,3.0,95.1951951951952,women_more
+Templa,trousers,464.5,690.0,4.0,3.0,48.54682454251884,women_more
+The North Face,jackets,228.0,245.0,29.0,18.0,7.456140350877183,women_more
+The Row,bags,1990.0,2025.0,3.0,36.0,1.7587939698492372,women_more
+The Row,coats,4350.0,4450.0,5.0,11.0,2.298850574712641,women_more
+The Row,jackets,3250.0,2990.0,5.0,9.0,-7.9999999999999964,men_more
+The Row,t-shirts,650.0,420.0,3.0,10.0,-35.38461538461538,men_more
+The Row,trousers,1470.0,1090.0,4.0,9.0,-25.850340136054417,men_more
+UNDERCOVER,coats,750.0,750.0,4.0,3.0,0.0,same
+UNDERCOVER,jackets,844.0,775.0,20.0,8.0,-8.175355450236966,men_more
+UNDERCOVER,t-shirts,220.0,285.0,18.0,3.0,29.54545454545454,women_more
+UNDERCOVER,trousers,420.0,435.0,14.0,10.0,3.571428571428581,women_more
+Valentino Garavani,bags,1340.0,1500.0,10.0,27.0,11.940298507462677,women_more
+Valentino Garavani,belts,630.0,520.0,6.0,11.0,-17.460317460317466,men_more
+Valentino Garavani,jewelry,345.0,620.0,24.0,8.0,79.71014492753623,women_more
+Valentino Garavani,sandals,440.0,980.0,4.0,12.0,122.7272727272727,women_more
+Veilance,trousers,300.0,300.0,5.0,3.0,0.0,same
+We11done,hats,170.0,225.0,4.0,3.0,32.35294117647059,women_more
+We11done,jackets,500.0,587.5,9.0,6.0,17.500000000000004,women_more
+We11done,sweaters,430.0,475.0,6.0,11.0,10.465116279069765,women_more
+Y/Project,jackets,441.0,274.0,4.0,3.0,-37.868480725623584,men_more
+Y/Project,jeans,398.0,422.0,11.0,7.0,6.030150753768848,women_more
+Y/Project,shirts,414.0,398.5,11.0,4.0,-3.7439613526570104,men_more
+YMC,jackets,382.5,332.5,4.0,4.0,-13.0718954248366,men_more
+YMC,shirts,182.5,215.0,6.0,3.0,17.808219178082197,women_more
+YMC,sweaters,240.0,260.0,8.0,8.0,8.333333333333325,women_more
+YMC,trousers,232.5,251.0,4.0,6.0,7.95698924731183,women_more
+Youth,jackets,397.0,568.5,9.0,4.0,43.19899244332495,women_more
+Youth,trousers,249.0,252.0,7.0,3.0,1.2048192771084265,women_more
+ZEGNA,jackets,2415.0,2520.0,3.0,3.0,4.347826086956519,women_more
+adidas Originals,sneakers,136.0,175.0,13.0,4.0,28.676470588235304,women_more
+rag & bone,belts,175.0,175.0,3.0,10.0,0.0,same
+rag & bone,hats,95.0,95.0,8.0,5.0,0.0,same
+rag & bone,jackets,525.0,595.0,15.0,10.0,13.33333333333333,women_more
+rag & bone,jeans,200.0,245.0,23.0,8.0,22.500000000000007,women_more
+rag & bone,shirts,225.0,225.0,25.0,7.0,0.0,same
+rag & bone,sneakers,265.0,260.0,9.0,4.0,-1.8867924528301883,men_more
+rag & bone,sweaters,300.0,522.5,8.0,6.0,74.16666666666667,women_more
+rag & bone,t-shirts,110.0,225.0,10.0,3.0,104.54545454545455,women_more
+rag & bone,trousers,240.0,425.0,12.0,9.0,77.08333333333333,women_more
+Études,trousers,267.0,283.0,7.0,3.0,5.992509363295873,women_more

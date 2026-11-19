@@ -1,0 +1,70 @@
+brand,category,gender,median_other,median_pink,size_other,size_pink,gap_pct,direction
+11 by Boris Bidjan Saberi,sneakers,men,330.0,326.0,3.0,2.0,-1.2121212121212088,pink_less
+ALAÏA,bags,women,1520.0,1520.0,10.0,2.0,0.0,same
+AMI Paris,hats,men,113.0,123.0,15.0,2.0,8.849557522123884,pink_more
+AMI Paris,jackets,women,955.5,572.5,4.0,2.0,-40.083725798011514,pink_less
+AMI Paris,shirts,men,280.5,251.5,22.0,4.0,-10.338680926916222,pink_less
+AMI Paris,t-shirts,women,228.0,203.0,6.0,2.0,-10.964912280701755,pink_less
+Acne Studios,scarves,men,295.0,320.0,8.0,2.0,8.47457627118644,pink_more
+Balenciaga,bags,women,2550.0,2370.0,13.0,2.0,-7.058823529411762,pink_less
+Blumarine,bags,women,745.0,685.0,2.0,4.0,-8.053691275167784,pink_less
+Blumarine,jewelry,women,235.0,235.0,2.0,2.0,0.0,same
+Bonsai,sweaters,men,352.5,371.0,4.0,3.0,5.248226950354606,pink_more
+Bottega Veneta,bags,women,3100.0,1750.0,44.0,3.0,-43.548387096774185,pink_less
+Burberry,bags,women,885.0,2640.0,8.0,2.0,198.3050847457627,pink_more
+Burberry,scarves,women,660.0,490.0,13.0,3.0,-25.757575757575758,pink_less
+Burberry,sweatshirts,men,1350.0,1350.0,3.0,2.0,0.0,same
+Burberry,trousers,men,1550.0,1350.0,5.0,3.0,-12.903225806451612,pink_less
+CHENPENG,jackets,men,778.5,722.5,4.0,4.0,-7.193320488118172,pink_less
+CMMN SWDN,sweaters,men,293.0,320.5,4.0,2.0,9.385665529010234,pink_more
+Comme des Garçons Shirt,shirts,women,440.0,525.0,7.0,2.0,19.318181818181813,pink_more
+Converse,sneakers,men,90.0,87.5,19.0,2.0,-2.777777777777779,pink_less
+Enfants Riches Déprimés,jewelry,men,420.0,490.0,20.0,5.0,16.666666666666675,pink_more
+FLORE FLORE,t-shirts,women,95.0,97.5,15.0,2.0,2.6315789473684292,pink_more
+Fancì Club,dresses,women,310.0,350.0,10.0,5.0,12.903225806451623,pink_more
+GCDS,jackets,women,1050.0,637.5,3.0,2.0,-39.28571428571429,pink_less
+Givenchy,sunglasses,women,260.0,255.0,14.0,2.0,-1.9230769230769273,pink_less
+Givenchy,t-shirts,women,570.0,520.0,4.0,3.0,-8.771929824561408,pink_less
+Gucci,sandals,women,980.0,1045.0,5.0,2.0,6.632653061224492,pink_more
+Gucci,sunglasses,men,450.0,610.0,122.0,3.0,35.555555555555564,pink_more
+Heron Preston,t-shirts,men,183.0,294.0,15.0,3.0,60.65573770491803,pink_more
+Holzweiler,sweaters,women,228.0,288.0,5.0,2.0,26.315789473684205,pink_more
+Isabel Marant,bags,women,992.5,470.0,20.0,2.0,-52.64483627204031,pink_less
+KARA,bags,women,380.0,380.0,11.0,3.0,0.0,same
+Marc Jacobs,bags,women,325.0,395.0,114.0,13.0,21.53846153846153,pink_more
+Maria Black,jewelry,women,85.0,112.5,53.0,2.0,32.35294117647059,pink_more
+Marni,bags,women,905.0,580.0,34.0,2.0,-35.911602209944746,pink_less
+Marni,jewelry,women,327.5,342.5,2.0,2.0,4.580152671755733,pink_more
+Marni,loafers,men,704.0,821.0,3.0,2.0,16.619318181818187,pink_more
+Marni,scarves,men,277.0,364.0,7.0,2.0,31.40794223826715,pink_more
+Marni,sweaters,men,770.0,802.5,7.0,2.0,4.220779220779214,pink_more
+Max Mara,coats,women,4190.0,4350.0,21.0,3.0,3.8186157517899666,pink_more
+Moncler,jackets,women,1945.0,2242.5,5.0,2.0,15.295629820051415,pink_more
+Moncler,t-shirts,men,385.0,512.5,10.0,2.0,33.11688311688312,pink_more
+Moncler,t-shirts,women,355.0,377.5,4.0,2.0,6.338028169014076,pink_more
+Mugler,t-shirts,women,470.0,645.0,7.0,2.0,37.23404255319149,pink_more
+NEEDLES,sweaters,men,340.0,357.5,9.0,2.0,5.147058823529416,pink_more
+Nike,sneakers,women,125.0,120.0,55.0,8.0,-4.0000000000000036,pink_less
+Praying,bags,women,64.0,74.0,4.0,2.0,15.625,pink_more
+Praying,sweatshirts,women,109.0,114.0,9.0,2.0,4.587155963302747,pink_more
+R13,shirts,men,472.5,460.0,2.0,2.0,-2.645502645502651,pink_less
+Rick Owens,t-shirts,men,470.0,490.0,16.0,2.0,4.255319148936176,pink_more
+Shushu/Tong,jewelry,women,150.5,71.5,2.0,2.0,-52.49169435215947,pink_less
+Staud,bags,women,250.0,250.0,21.0,4.0,0.0,same
+Staud,dresses,women,255.0,165.0,16.0,3.0,-35.29411764705882,pink_less
+Staud,trousers,women,220.0,285.0,8.0,2.0,29.54545454545454,pink_more
+Stone Island,jackets,men,1022.5,2902.5,12.0,2.0,183.86308068459658,pink_more
+Suicoke,sandals,men,162.0,169.5,6.0,2.0,4.629629629629628,pink_more
+TSAU,shirts,men,273.0,361.0,3.0,2.0,32.234432234432234,pink_more
+Tekla,shirts,women,170.0,192.5,11.0,2.0,13.235294117647056,pink_more
+Tekla,trousers,women,152.5,147.5,8.0,2.0,-3.2786885245901676,pink_less
+The North Face,jackets,men,245.0,186.5,27.0,2.0,-23.877551020408163,pink_less
+Valentino Garavani,bags,women,1650.0,1350.0,18.0,9.0,-18.181818181818176,pink_less
+Valentino Garavani,belts,women,520.0,520.0,7.0,4.0,0.0,same
+Valentino Garavani,sandals,women,1015.0,950.0,8.0,4.0,-6.403940886699511,pink_less
+Valentino Garavani,scarves,women,655.0,655.0,2.0,2.0,0.0,same
+Versace,sunglasses,women,325.0,252.5,11.0,2.0,-22.307692307692307,pink_less
+We11done,sweaters,women,475.0,465.0,9.0,2.0,-2.1052631578947323,pink_less
+alexanderwang.t,sweatshirts,women,325.0,337.5,6.0,2.0,3.8461538461538547,pink_more
+alexanderwang.t,t-shirts,women,175.0,222.5,16.0,2.0,27.142857142857135,pink_more
+alexanderwang.t,trousers,women,295.0,335.0,4.0,2.0,13.559322033898313,pink_more
